@@ -1,0 +1,6 @@
+{
+  "javascript.format.insertSpaceAfterConstructor": true,
+  "prettier.resolveGlobalModules": true,
+  "prettier.singleQuote": true,
+  "prettier.semi": false
+}
